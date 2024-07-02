@@ -11,7 +11,7 @@ setup(
     author='Shamim Khan',
     author_email='shamimkdev@gmail.com',
     description='This package provides methods to get the data in sql input formats',
-    url='https://github.com/shamimkdev/my_utils',  # Project URL
+    url='https://github.com/shamimkdev/my_utils1258',  # Project URL
     classifiers=[
         'Programming Language :: Python :: 3',
         'License :: OSI Approved :: MIT License',
